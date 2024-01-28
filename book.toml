@@ -1,0 +1,19 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "The Definitive Guide to Playing Boktai"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/shenef/The-Definitive-Guide-to-Playing-Boktai"
+git-repository-icon = "fa-github"
+
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
+# and theme/index.hbs by https://github.com/JorelAli/mdBook-pagetoc
+
+[output.html.fold]
+enable = true      # enable/disable section folding
+level = 1          # when to start folding
