@@ -4,5 +4,7 @@ Since a lot of the information on how to play Boktai is wrong, outdated and all 
 
 Currently we are at the very start of the project. A lot of the actual content is still missing since we are currently doing the technical setup, outlining the content and gathering which information is most important.
 
+If you want to contribute, feel free to join our [Discord](https://discord.gg/0dUb9OmJrIrRPFGf) and/or to create pull requests or issues.
+
 Once the guide is mostly finished, we might look into translating it into other languages.
-(Maybe be helpful for that: <https://crates.io/crates/mdbook-i18n-helpers>)
+<!-- Maybe be helpful for that: <https://crates.io/crates/mdbook-i18n-helpers> -->
