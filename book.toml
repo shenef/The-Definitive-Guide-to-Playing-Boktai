@@ -13,7 +13,9 @@ git-repository-icon = "fa-github"
 # CSS and JS files are imported in the order they are listed here!
 # pagetoc.css, pagetoc.js and index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 additional-css = [
-    "theme/css/pagetoc.css", 
+    "theme/css/colors.css",
+    "theme/css/misc.css",
+    "theme/css/pagetoc.css",
     "theme/css/mdbook-admonish.css",
 ]
 additional-js = ["theme/js/pagetoc.js"]

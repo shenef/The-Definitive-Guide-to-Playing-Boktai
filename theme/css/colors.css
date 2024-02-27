@@ -1,0 +1,17 @@
+/**
+ * Global color variables
+ * 
+ * When changing these, make sure they work fine for the
+ * "Light" and "Navy" themes as those are the default color schemes.
+ */
+
+:root {
+  /* Element-related colors */
+  --color-sol: #eca200;
+  --color-luna: #b093ff;
+  --color-dark: #8c0000;
+  --color-flame: #ff0000;
+  --color-frost: #1293e9;
+  --color-earth: #00a000;
+  --color-cloud: #c800ff;
+}
