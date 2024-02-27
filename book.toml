@@ -10,10 +10,18 @@ no-section-label = true
 git-repository-url = "https://github.com/shenef/The-Definitive-Guide-to-Playing-Boktai"
 git-repository-icon = "fa-github"
 
+# CSS and JS files are imported in the order they are listed here!
+# pagetoc.css, pagetoc.js and index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
-# and theme/index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 
 [output.html.fold]
 enable = true      # enable/disable section folding
 level = 1          # when to start folding
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.2"    # do not edit: managed by `mdbook-admonish install`
+
+[output.linkcheck]
+optional = true
