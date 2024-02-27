@@ -1,0 +1,50 @@
+# Playground
+
+```admonish info
+A beautifully styled message.
+```
+
+```admonish warning title="Data loss"
+The following steps can lead to irrecoverable data corruption.
+```
+
+```admonish success title=""
+Box without a title.
+```
+
+```admonish tip title="_Markdown_ and <i>HTML</i>"
+Markdown *and* HTML `can` be used in the <span style="color: hotpink">inner content</span> and title.
+```
+
+~~~admonish tip
+Runnable rust code within an admonishment:
+```rust
+fn main() {
+  println!("Hello, World!");
+}
+```
+~~~
+
+Collapsible:
+
+```admonish collapsible=true
+Collapsible.
+```
+
+Collapsible with no title:
+
+```admonish success title="" collapsible=true
+Collapsible and no title
+```
+
+## testing the table of contents
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus at velit scelerisque maximus. Nam eget tincidunt nulla. Vestibulum quis enim massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida ligula a eros eleifend pulvinar. Pellentesque accumsan cursus auctor. Proin pharetra massa eget eros tincidunt, nec eleifend eros sagittis. Proin nulla tellus, scelerisque id leo a, porttitor consequat lorem.
+
+## stuff
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus at velit scelerisque maximus. Nam eget tincidunt nulla. Vestibulum quis enim massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida ligula a eros eleifend pulvinar. Pellentesque accumsan cursus auctor. Proin pharetra massa eget eros tincidunt, nec eleifend eros sagittis. Proin nulla tellus, scelerisque id leo a, porttitor consequat lorem.
+
+### stuff within stuff
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus at velit scelerisque maximus. Nam eget tincidunt nulla. Vestibulum quis enim massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida ligula a eros eleifend pulvinar. Pellentesque accumsan cursus auctor. Proin pharetra massa eget eros tincidunt, nec eleifend eros sagittis. Proin nulla tellus, scelerisque id leo a, porttitor consequat lorem.
