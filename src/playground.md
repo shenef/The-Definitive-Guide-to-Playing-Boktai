@@ -50,7 +50,7 @@ Box without a title.
 ```admonish tip title="_Markdown_ and <i>HTML</i>"
 Markdown *and* HTML `can` be used in the <span style="color: hotpink">inner content</span> and title.
 ```
-
+<!-- markdownlint-disable-next-line code-fence-style -->
 ~~~admonish tip
 Runnable rust code within an admonishment:
 ```rust

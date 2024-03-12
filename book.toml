@@ -21,7 +21,7 @@ additional-css = [
 additional-js = ["theme/js/pagetoc.js"]
 
 [output.html.fold]
-enable = true      # enable/disable section folding
+enable = false     # enable/disable section folding
 level = 1          # when to start folding
 
 [preprocessor.admonish]

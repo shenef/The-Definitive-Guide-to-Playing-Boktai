@@ -1,5 +1,7 @@
 # Summary
 
+<!-- markdownlint-disable no-empty-links -->
+
 - [What is Boktai and why this Guide?](./what-and-why.md)
   - [Boktai 1](./series/boktai-1.md)
     - [Mechanics]()
