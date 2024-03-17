@@ -37,7 +37,7 @@
   - [Empty Battery]()
   - [Multiplayer content (pvp, trading, exchange, crossover, ...)]()
 - [Community](./community.md)
-- [Playground](./playground.md)
+- [Editing Playground](./playground.md)
 
 ---
 

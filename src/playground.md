@@ -1,4 +1,4 @@
-# Playground
+# Editing Playground
 
 ## Interactive elements
 
@@ -10,21 +10,21 @@ Then press this
   suspicious button
 </button>
 
-## <span style="color: var(--color-earth);">Formatting</span> <span style="color: var(--color-cloud);" >Stuff</span>
+## <span class="earth">Formatting</span> <span class="cloud">Stuff</span>
 
 Showing off the elemental colors:
 
-- <span style="color: var(--color-sol);">Sol</span>
-- <span style="color: var(--color-luna);">Luna</span>
-- <span style="color: var(--color-dark);">Dark</span>
-- <span style="color: var(--color-flame);">Flame</span>
-- <span style="color: var(--color-frost);">Frost</span>
-- <span style="color: var(--color-earth);">Earth</span>
-- <span style="color: var(--color-cloud);">Cloud</span>
+- <span class="sol">Sol</span>
+- <span class="luna">Luna</span>
+- <span class="dark">Dark</span>
+- <span class="flame">Flame</span>
+- <span class="frost">Frost</span>
+- <span class="earth">Earth</span>
+- <span class="cloud">Cloud</span>
 
 Legible on the Navy theme but on the Light theme they are not exactly great.
 
-## Videos
+## Video embeds
 
 <iframe
   style="aspect-ratio: 2/1"
